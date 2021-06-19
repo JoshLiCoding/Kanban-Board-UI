@@ -5,7 +5,7 @@ All technical code and writup are my own, although general aspects I have discus
 1. Install [Kanban API](https://github.com/Garrett-Freddo/kanban-api) locally (follow instructions on page)
 2. Open terminal and input "cd Desktop"
 3. Clone repository
-4. Navigate to my-app folder, create new terminal at folder
+4. Navigate to "my-app" folder, create new terminal at folder
 5. Run "npm install"
 6. Run "npm start"
 
