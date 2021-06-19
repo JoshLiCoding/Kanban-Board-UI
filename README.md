@@ -1,5 +1,5 @@
 # kanban-ui
-All technical code and writup are my own - general aspects I have discussed with a family member. Credits are provided where credits are due.
+All technical code and writup are my own, although general aspects I have discussed with a family member. Credits to online sources are provided where they are due.
 
 ## Installation (Mac)
 1. Install [Kanban API](https://github.com/Garrett-Freddo/kanban-api) locally (follow instructions on page)
@@ -30,3 +30,4 @@ After dedicating several hours on Friday to debug the Kanban API (to no avail), 
 ![image](https://user-images.githubusercontent.com/43073270/122647681-6f6d5a80-d0f3-11eb-9cfc-fa50151757d9.png)
 
 ## Video
+https://www.youtube.com/watch?v=vd2z0qbwhTE
