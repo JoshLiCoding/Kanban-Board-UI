@@ -31,7 +31,7 @@ CANNOT drag and drop tasks from one column to another.
 After dedicating several hours on Friday to debug the Kanban API (to no avail), I posted the following [GitHub issue](https://github.com/Garrett-Freddo/kanban-api/issues/1) (snippet below). The author has since provided clarifications on the issue.
 ![image](https://user-images.githubusercontent.com/43073270/122647681-6f6d5a80-d0f3-11eb-9cfc-fa50151757d9.png)
 
-## Video
-Version 1: https://www.youtube.com/watch?v=vd2z0qbwhTE (examples work better in this video)
+## Videos
+Version 1: https://www.youtube.com/watch?v=vd2z0qbwhTE (optional: examples work better in this video)
 
 Version 2 (WATCH): https://www.youtube.com/watch?v=pUUmuLT67uI (note: I meant "title", not "name", at 4:25)
