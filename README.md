@@ -34,4 +34,4 @@ After dedicating several hours on Friday to debug the Kanban API (to no avail), 
 ## Video
 Version 1: https://www.youtube.com/watch?v=vd2z0qbwhTE
 
-Version 2 (WATCH): https://www.youtube.com/watch?v=pUUmuLT67uI
+Version 2 (WATCH): https://www.youtube.com/watch?v=pUUmuLT67uI (note: I meant "title", not "name", at 4:25)
