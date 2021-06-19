@@ -15,6 +15,8 @@ The result will resemble this:
 ## Approach
 Front-end ReactJS corresponds with the back-end Kanban API (with MongoDB server) through the Fetch API. Material UI is also utilized with ReactJS.
 
+Some aspects inspired by the To-Do Board on Notion
+
 ## Architecture
 Single webpage, tasks within columns.
 
@@ -30,4 +32,5 @@ After dedicating several hours on Friday to debug the Kanban API (to no avail), 
 ![image](https://user-images.githubusercontent.com/43073270/122647681-6f6d5a80-d0f3-11eb-9cfc-fa50151757d9.png)
 
 ## Video
-https://www.youtube.com/watch?v=vd2z0qbwhTE
+Version 1: https://www.youtube.com/watch?v=vd2z0qbwhTE
+Version 2 (WATCH): https://www.youtube.com/watch?v=pUUmuLT67uI
