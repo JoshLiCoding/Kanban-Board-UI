@@ -22,7 +22,7 @@ Single webpage, tasks within columns.
 
 ## Functions
 - Named columns (To-Do, In Progress, Complete, In Review)
-- Ability to add and delete tasks to a column
+- Ability to add and delete tasks in a column
 - Tasks include title, assignee (user) and description
 
 CANNOT drag and drop tasks from one column to another.
