@@ -5,7 +5,7 @@ I was given the task to create a functional Kanban board as part of the intervie
 - Has the ability to add and delete tasks in a column
 - Displays tasks include title, assignee (user) and description
 
-Used React.js that communicates with the provided back-end Kanban API (on MongoDB server) through the Fetch API. Material UI is also employed
+Used React.js that communicated with the provided back-end Kanban API (on MongoDB server) through the Fetch API. Material UI is also employed
 
 ## Installation (Mac)
 1. Install [Kanban API](https://github.com/Garrett-Freddo/kanban-api) locally (follow instructions on page)
